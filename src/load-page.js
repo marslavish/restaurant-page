@@ -6,7 +6,7 @@ function loadPage() {
   content.appendChild(headingElement);
 
   const imageElement = document.createElement("img");
-  imageElement.setAttribute("src", "../images/restaurant.jpeg");
+  imageElement.setAttribute("src", "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F04%2F24%2Fppp-why-wont-anyone-rescue-restaurants-FT-BLOG0420.jpg");
   imageElement.setAttribute("alt", "restaurant");
   content.appendChild(imageElement);
 
